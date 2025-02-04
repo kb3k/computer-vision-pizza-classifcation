@@ -1,9 +1,5 @@
 # computer-vision-pizza-classifcation
 
-Okay, here is a draft of a professional README for the GitHub repository, based on the provided source material:
-
-**Title:** computer-vision-pizza-classification
-
 **Description:**
 
 This repository contains a prototype that uses a combination of computer vision and natural language processing to classify pizzas. It leverages several powerful tools, including **LangChain**, **LlamaIndex**, **LLaVA**, and **OpenAI**. The goal is to demonstrate how these technologies can work together for pertinent pizza classification purposes.
