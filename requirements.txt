@@ -66,6 +66,7 @@ httpx==0.28.1
 huggingface-hub==0.28.1
 humanfriendly==10.0
 idna==3.10
+inference_sdk==0.3.61
 ipykernel==6.29.5
 ipython==8.32.0
 isoduration==20.11.0
